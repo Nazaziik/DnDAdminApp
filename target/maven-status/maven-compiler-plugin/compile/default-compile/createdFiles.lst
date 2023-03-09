@@ -1,0 +1,5 @@
+pl\opole\uni\springWebApp\services\StudentService.class
+pl\opole\uni\springWebApp\controllers\StudentController.class
+pl\opole\uni\springWebApp\repositories\StudentRepository.class
+pl\opole\uni\springWebApp\SpringWebApplication.class
+pl\opole\uni\springWebApp\models\Student.class
